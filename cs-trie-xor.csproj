@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Optimize>true</Optimize>
+    <AssemblyName>cs-trie-xor</AssemblyName>
+    <RootNamespace>trie_xor</RootNamespace>
+    <Description>XOR trie for maximum XOR subarray queries</Description>
+    <Authors>Mahmoud ElNemer</Authors>
+    <PackageProjectUrl>https://github.com/ElNeMeR70/cs-trie-xor</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ElNeMeR70/cs-trie-xor</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+</Project>
